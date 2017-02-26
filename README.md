@@ -24,4 +24,5 @@ To View Couples:                                    Open output.txt
 To View generated Gift details:                     Open gifts.txt
 To View Gifting process:				                    Open presents.txt
 To View K-Most Happiest and Compatible Couples:     Open Happiness.txt 
-To View Documentation:                              Go to ppl_assignment1/html/index.html
+To View Documentation:                              Open Documentation.pdf
+To View Class Diagram:                              Open Class Diagram.pdf
