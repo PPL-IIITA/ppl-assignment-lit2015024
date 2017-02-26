@@ -19,9 +19,9 @@ g++ Couples.cpp Comm.cpp Gift.cpp makeGift.cpp Happy.cpp  ques2.cpp;
 
 ./a.out
 
-To View generated people:				                    Open input.txt
+To View Generated people:				                    Open input.txt
 To View Couples:                                    Open output.txt
-To View generated Gift details:                     Open gifts.txt
+To View Generated Gift details:                     Open gifts.txt
 To View Gifting process:				                    Open presents.txt
 To View K-Most Happiest and Compatible Couples:     Open Happiness.txt 
 To View Documentation:                              Open Documentation.pdf
